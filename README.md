@@ -1,2 +1,2 @@
 # Personal-Webpage
-Personal webpage built as part of Odin project
+First, ugly webpage built as part of Odin project
